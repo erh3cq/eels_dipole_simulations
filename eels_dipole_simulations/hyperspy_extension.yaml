@@ -1,0 +1,9 @@
+# 1D ``Component``s that the extension provides.
+components1D:
+  d56098f3-cb7a-4313-8aca-9862344be0d0:
+    module: eels_dipole_simulations._dielectric_functions.factorized
+    class: EpsFactorized
+    
+  838abcb5-0a09-4e8c-b5dd-1f28e77fc475:
+    module: eels_dipole_simulations._dielectric_functions.lorentz_drude
+    class: EpsLorentzDrude
