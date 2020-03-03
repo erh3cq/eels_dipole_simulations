@@ -1,0 +1,8 @@
+
+*.pyc
+eels_dipole_simulations.egg-info/top_level.txt
+eels_dipole_simulations.egg-info/SOURCES.txt
+eels_dipole_simulations.egg-info/PKG-INFO
+eels_dipole_simulations.egg-info/not-zip-safe
+eels_dipole_simulations.egg-info/entry_points.txt
+eels_dipole_simulations.egg-info/dependency_links.txt
