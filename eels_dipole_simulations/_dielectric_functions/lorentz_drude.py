@@ -3,7 +3,7 @@ from traits.api import CBool
 from hyperspy.ui_registry import add_gui_method
 
 
-@add_gui_method(toolkey="hspy_ext.eps_factorized")
+@add_gui_method(toolkey="eels_dipole_simulations.eps_factorized")
 class EpsLorentzDrude(Component):
     '''
     Lorentz-Drude dielectric component.
